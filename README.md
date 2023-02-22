@@ -1,10 +1,12 @@
 Installation
---------------------------------------------------------
-git clone https://github.com/tunactnkya/Simple-weather-app-with-React
-cd desktop
-npx create-react-app weather-app
-npm start
 
+git clone https://github.com/tunactnkya/Simple-weather-app-with-React
+
+cd desktop
+
+npx create-react-app weather-app
+
+npm start
 
 
 
