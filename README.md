@@ -17,7 +17,9 @@ https://openweathermap.org/
 Tech
 --------------------------------------------------------
 ● ReactJS
+
 ● Tailwindcss
+
 ● APİ
 
 
