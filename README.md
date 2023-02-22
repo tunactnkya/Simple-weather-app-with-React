@@ -1,5 +1,5 @@
 Installation
-
+--------------------------------------------------------------
 git clone https://github.com/tunactnkya/Simple-weather-app-with-React
 
 cd desktop
