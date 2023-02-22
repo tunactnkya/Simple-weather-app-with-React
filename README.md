@@ -1,3 +1,7 @@
+You need to create your own open weater API key.
+
+https://openweathermap.org/
+
 Tech
 --------------------------------------------------------
 ● ReactJS
