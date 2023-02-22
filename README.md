@@ -1,3 +1,13 @@
+Installation
+--------------------------------------------------------
+git clone https://github.com/tunactnkya/Simple-weather-app-with-React
+cd desktop
+npx create-react-app weather-app
+npm start
+
+
+
+
 You need to create your own open weater API key.
 
 https://openweathermap.org/
